@@ -4,8 +4,8 @@
     "I7J8K9L": "QKJX9TNYmLzWB8PV7RgFoC5Md26XoYtZqTKwAhcVJGFpBLYNRzWMQ8T9X7KJ5gCdP2VoYRmL",
     "M0N1O2P": "LNBP7XJ9TVYzQKWmRgFoC5Md26XoYtZqTKwAhcVJGFpBLYNRzWMQ8T9X7KJ5gCdP2VoYRmL",
     "Q3R4S5T": "TNYmLzWB8PV7XJ9QKJX9TRgFoC5Md26XoYtZqTKwAhcVJGFpBLYNRzWMQ8T9X7KJ5gCdP2VoYRmL",
-    "GObjects": "0x0",
-    "GNames": "0x0",
-    "UWorld": "0x0",
-    "PEIndex": "0x0"
+    "GObjects": "0x438C890",
+    "GNames": "0x43D4790",
+    "UWorld": "0x43A5758",
+    "PEIndex": "0x4E"
 }
